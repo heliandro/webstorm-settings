@@ -3,11 +3,12 @@
     <property name="created">2019-08-26T12:36:44</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-26T12:47:00</property>
+    <property name="modified">2019-08-26T13:02:26</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
@@ -23,5 +24,7 @@
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="c3e88d" />
+    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
 </scheme>
